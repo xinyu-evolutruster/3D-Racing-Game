@@ -1,0 +1,58 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl NewMat04
+map_Kd l_whole_l_window_lambert2SG_BaseColor.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl NewMat07
+map_Kd l_body1_l_body_lambert6SG_BaseColor.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl NewMat03
+map_Kd l_whole_l_tire_lambert5SG_BaseColor.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl NewMat03_ncl1_1
+map_Kd l_whole_l_tire_lambert5SG_BaseColor.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl NewMat03_ncl1_2
+map_Kd l_whole_l_tire_lambert5SG_BaseColor.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl NewMat03_ncl1_3
+map_Kd l_whole_l_tire_lambert5SG_BaseColor.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000

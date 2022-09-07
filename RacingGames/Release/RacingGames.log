@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\桌面FILE\D图形学大程\3d_racing_games_xrx\RacingGames\include\my\car.h(119,34): warning C4018: “>”: 有符号/无符号不匹配
+D:\桌面FILE\D图形学大程\3d_racing_games_xrx\RacingGames\include\my\car.h(129,39): warning C4018: “>”: 有符号/无符号不匹配
+D:\桌面FILE\D图形学大程\3d_racing_games_xrx\RacingGames\main.cpp(1117,26): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 1094 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RacingGames.vcxproj -> D:\桌面FILE\D图形学大程\3d_racing_games_xrx\Release\RacingGames.exe

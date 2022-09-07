@@ -1,0 +1,89 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl Default
+map_Kd DefaultMaterial_Base_Color.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl Default_ncl1_1
+map_Kd DefaultMaterial_Base_Color.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl initialShadingGroup
+Ka 0.200000 0.200000 0.200000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 0.700000
+Tr 1.000000
+
+newmtl initialShadingGroup_ncl1_1
+Ka 0.200000 0.200000 0.200000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 0.700000
+Tr 1.000000
+
+newmtl initialShadingGroup_ncl1_2
+Ka 0.200000 0.200000 0.200000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 0.700000
+Tr 1.000000
+
+newmtl initialShadingGroup_ncl1_3
+Ka 0.200000 0.200000 0.200000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 0.700000
+Tr 1.000000
+
+newmtl Default_ncl1_2
+map_Kd DefaultMaterial_Base_Color.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl Default_ncl1_3
+map_Kd DefaultMaterial_Base_Color.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl Default_ncl1_4
+map_Kd DefaultMaterial_Base_Color.png
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl initialShadingGroup_ncl1_4
+Ka 0.200000 0.200000 0.200000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 0.700000
+Tr 1.000000
