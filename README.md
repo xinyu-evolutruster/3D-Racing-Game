@@ -50,7 +50,7 @@ In this racing game, players can control the car to move on the race track to hi
 
 - **Background Music**
 
-  Using the *irrKLang* library, the racing game
+  With the assist of *irrKLang* library, players can race with exciting music. 
 
 - **Animation**
 
