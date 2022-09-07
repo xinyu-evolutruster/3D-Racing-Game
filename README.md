@@ -14,7 +14,7 @@ In this racing game, players can control the car to move on the race track to hi
 
 - **Scene Changing**
   
-  The scene can be changed by pressing key M or N.
+  The scene can be changed by pressing the key M or N.
 
   ![image](./images/scene_change.gif)
 
@@ -26,19 +26,28 @@ In this racing game, players can control the car to move on the race track to hi
   - A: moving left
   - S: moving back
   - D: moving right
+  
+  ![image](./images/moving_2.gif)
 
   Pressing key C can change the camera control mode:
 
   - W: turning left
   - D: turning right 
 
+  ![image](./images/moving_1.gif)
+
 - **Glowing Effect**
+  
   Pressing key Z can turn on the lights of the race track.
+
+  ![image](./images/glowing.gif)
 
 - **Multiple Rendering Modes**
 
   There are two different rendering modes: the wireframe mode and the normal mode, which are switched via key X.
-  
+   
+  ![image](./images/rendering_mode.gif)
+
 - **Background Music**
 
   Using the *irrKLang* library, the racing game
@@ -46,11 +55,11 @@ In this racing game, players can control the car to move on the race track to hi
 - **Animation**
 
   Animation of objects in the game (in this case, the leaves) is implemented by loading a sequence of .obj files.
-    
+
 
 - **Screenshot**
   
-  By pressing the key P, players can take screenshots and they are saved to the default folder ()
+  By pressing the key P, players can take screenshots and they are saved to the default folder (./RacingGames/screenshot)
 
 ## Install
 
